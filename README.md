@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresfelipecs&label=Profile%20views&color=0e75b6&style=flat" alt="andresfelipecs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andresfelipecs" alt="andresfelipecs" /></a> </p>
-
 - 🔭 I’m currently working on [Maschine learning models for Energy Trading](https://github.com/andresfelipecs/Maschine_learning_for_Energy_Trading)
 
 - 📫 How to reach me **fepipe22@gmail.com**
@@ -21,6 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresfelipecs&show_icons=true&locale=en&layout=compact" alt="andresfelipecs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresfelipecs&show_icons=true&locale=en" alt="andresfelipecs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresfelipecs&" alt="andresfelipecs" /></p>
 
 <!--
 **andresfelipecs/andresfelipecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
