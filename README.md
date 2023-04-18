@@ -1,5 +1,5 @@
-<h1 align="center">Hi world 👋, I'm Felipe</h1>
-<h3 align="center">A passionate Python developer and data scientist</h3>
+<h1 align="center">Hello world 🙂👋, I'm Felipe</h1>
+<h3 align="center">A passionate Python Developer and Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresfelipecs&label=Profile%20views&color=0e75b6&style=flat" alt="andresfelipecs" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fepipe22@gmail.com**
 
-- ⚡ Fun fact **I like to dance and play video games**
+- ⚡ Fun fact **I like to dance, go to the gym and play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
